@@ -5,7 +5,7 @@ Convert from state names and abbreviations to FIPS codes
 Web app that converts from state names and abbreviations to FIPS codes. The purpose of this app is to allow users to programatically convert batches of state names and abbrevations to FIPS codes on any programming language or device. Modules to do these conversions exist in various languages, but this app is cross-functional and doesn't increase the number of dependencies. For instance, you can GET request a list of state names recieved from user inputs, and convert them to FIPS codes to query Census data on locations specified by the user.
 
 # Instructions
-Add query parameters for any number of states to `'https://script.google.com/macros/s/AKfycbxYuzwcZe6pmlx-fBCeThSbufUvmxeScFy7B4Thf0n34ozIcNk/exec?'`.
+Add query parameters for any number of states to `https://script.google.com/macros/s/AKfycbxYuzwcZe6pmlx-fBCeThSbufUvmxeScFy7B4Thf0n34ozIcNk/exec?`.
 
 For example:
 
